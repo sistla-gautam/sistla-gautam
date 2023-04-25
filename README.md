@@ -1,6 +1,5 @@
 [![MasterHead](https://raw.githubusercontent.com/sistla-gautam/sistla-gautam/main/Black%20Pastel%20Purple%20White%20Photocentric%20Event%20Promotion%20Banner.png)](https://sgautam.netlify.app)
 
-<h1 align="center">Hi 👋, I'm S Gautam</h1>
 <h3 align="center">Web developer, Data Analyst and UX/UI Designer based in Bangalore, India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
@@ -9,11 +8,11 @@
 
 - 🌱 I’m currently learning **Web 3**
 
-- 👨‍💻 All of my projects are available at [sgautam.netlify.app](sgautam.netlify.app)
+- 👨‍💻 All of my projects are available at **[sgautam.netlify.app](sgautam.netlify.app)**
 
 - 📫 How to reach me **sistlagautham@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1-xbBnso4DanGZiGuX6wpMDSmOGhCDm9N/view?usp=sharing)
+- 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/1-xbBnso4DanGZiGuX6wpMDSmOGhCDm9N/view?usp=sharing)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
