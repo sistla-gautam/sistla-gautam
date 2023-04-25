@@ -1,3 +1,5 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm S Gautam</h1>
 <h3 align="center">Web developer, Data Analyst and UX/UI Designer based in Bangalore, India</h3>
 
@@ -11,7 +13,7 @@
 
 - 📫 How to reach me **sistlagautham@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1-xbBnso4DanGZiGuX6wpMDSmOGhCDm9N/view?usp=sharing](https://drive.google.com/file/d/1-xbBnso4DanGZiGuX6wpMDSmOGhCDm9N/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1-xbBnso4DanGZiGuX6wpMDSmOGhCDm9N/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
