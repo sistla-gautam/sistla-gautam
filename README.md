@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://raw.githubusercontent.com/sistla-gautam/sistla-gautam/main/Black%20Pastel%20Purple%20White%20Photocentric%20Event%20Promotion%20Banner.png)](https://sgautam.netlify.app)
 
 <h1 align="center">Hi 👋, I'm S Gautam</h1>
 <h3 align="center">Web developer, Data Analyst and UX/UI Designer based in Bangalore, India</h3>
