@@ -1,4 +1,4 @@
-[![MasterHead](https://raw.githubusercontent.com/sistla-gautam/sistla-gautam/main/Black%20Pastel%20Purple%20White%20Photocentric%20Event%20Promotion%20Banner.png)](https://sgautam.netlify.app)
+[![MasterHead](https://raw.githubusercontent.com/sistla-gautam/sistla-gautam/main/Black%20Pastel%20Purple%20White%20Photocentric%20Event%20Promotion%20Banner%20(1).png)](https://sgautam.netlify.app)
 
 <h3 align="center">Web developer, Data Analyst and UX/UI Designer based in Bangalore, India</h3>
 
