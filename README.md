@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working in **NicheSolv**
 
-- 👨‍💻 All of my projects are available at **[https://sgautam.in/](sgautam.in)**
+- 👨‍💻 All of my projects are available at **[sgautam.in](https://sgautam.in/)**
 
 - 📫 How to reach me: **sistlagautham@gmail.com**
 
